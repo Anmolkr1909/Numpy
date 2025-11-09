@@ -1,1 +1,1 @@
-# Numpy ( mini project )
+# Numpy (mini project )
